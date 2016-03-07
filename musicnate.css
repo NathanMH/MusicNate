@@ -1,0 +1,34 @@
+/* Header */
+
+html {
+    background-color: #D4D2D2;
+}
+
+.page-header {
+    background-color: white;
+    margin-top: 25px;
+}
+
+/* Nav */
+
+.navbar-default {
+    border: none;
+}
+
+/* Body */
+
+body {
+    background-color: white;
+    line-height: 1.5em;
+    max-width: 1200px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.col-sm-8 {
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+/* Footer */
+
