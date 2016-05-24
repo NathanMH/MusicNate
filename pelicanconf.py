@@ -6,7 +6,8 @@ AUTHOR = u'Nathan Mador-House'
 SITENAME = u'MusicNate'
 SITEURL = ''
 
-PATH = 'content'
+#PATH = '~/Documents/MusicNate/content/'
+PATH = '/home/musicnate/Documents/MusicNate/content/'
 
 TIMEZONE = 'America/Toronto'
 
