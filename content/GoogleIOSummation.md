@@ -37,4 +37,4 @@ Duo takes hints from its competitors such as cross platform availability from Sk
 There is always so much new in Android updates it is hard to properly summarize all of the changes.
 The major areas of innovation are in Visual Layouts and Virtual Reality. In terms of layouts N brings multitasking to a new level with split screen multi-windows.
 It also introduces Picture-in-Picture mode for Android TV which apparently is not useful for tablets or phones. 
-Google has also announced 'Daydream' explained by Clay Bevor as a new platform for VR. The platform includes
+Google has also announced 'Daydream' explained by Clay Bevor as a new platform for VR. The platform includes detailed specifications for software, new phone hardware and a physical headset. What I found of particular interest was the inclusion of a headband, which has been a topic of debate for previous Google VR implementations (Cardboard)
