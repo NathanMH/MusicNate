@@ -36,7 +36,7 @@ THEME = ("nice-blog")
 THEME_COLOR = 'cyan'
 SIDEBAR_DISPLAY = ['about', 'categories', 'tags']
 SIDEBAR_ABOUT = "Musician, Programmer and Amateur Powerlifter."
-MENUITEMS = (('About', 'about.html'),
+MENUITEMS = (('About', '/pages/about.html'),
              ('Projects', '#'))
 
 # Uncomment following line if you want document-relative URLs when developing
