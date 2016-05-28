@@ -6,7 +6,6 @@ AUTHOR = u'Nathan Mador-House'
 SITENAME = u'MusicNate'
 SITEURL = ''
 
-#PATH = '~/Documents/MusicNate/content/'
 PATH = '/home/musicnate/Documents/MusicNate/content/'
 
 TIMEZONE = 'America/Toronto'
@@ -32,12 +31,11 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
-THEME = ("nice-blog")
+THEME = ("pelican-themes-master/bricks")
 THEME_COLOR = 'cyan'
 SIDEBAR_DISPLAY = ['about', 'categories', 'tags']
 SIDEBAR_ABOUT = "Musician, Programmer and Amateur Powerlifter."
-MENUITEMS = (('About', '/pages/about.html'),
-             ('Projects', '#'))
+# MENUITEMS = (('HELP', '/pages/HELP'), ('Projects', '/pages/projects.html'))
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
