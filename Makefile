@@ -8,9 +8,9 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=localhost
-FTP_USER=anonymous
-FTP_TARGET_DIR=/
+FTP_HOST=sftp://ftp.musicnate.ca
+FTP_USER=music700
+FTP_TARGET_DIR=/home/music700/public_html/
 
 SSH_HOST=localhost
 SSH_PORT=22
