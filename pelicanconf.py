@@ -20,10 +20,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pronto Musica', 'http://www.prontomusica.org/'),
+         ('Lara Deutsch', 'http://www.laradeutsch.ca/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -33,9 +31,8 @@ DEFAULT_PAGINATION = False
 
 THEME = ("pelican-themes-master/bricks")
 THEME_COLOR = 'cyan'
-SIDEBAR_DISPLAY = ['about', 'categories', 'tags']
-SIDEBAR_ABOUT = "Musician, Programmer and Amateur Powerlifter."
-# MENUITEMS = (('HELP', '/pages/HELP'), ('Projects', '/pages/projects.html'))
+
+STATIC_PATHS = ['assets']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
