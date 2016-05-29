@@ -8,9 +8,9 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=sftp://ftp.musicnate.ca
+FTP_HOST=ftp.musicnate.ca
 FTP_USER=music700
-FTP_TARGET_DIR=/home/music700/public_html/
+FTP_TARGET_DIR=/public_html
 
 SSH_HOST=localhost
 SSH_PORT=22
@@ -32,7 +32,7 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
-RELATIVE ?= 0
+RELATIVE ?= 1
 ifeq ($(RELATIVE), 1)
 	PELICANOPTS += --relative-urls
 endif
@@ -109,7 +109,7 @@ dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
 
 ftp_upload: publish
-	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
+	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "set ftp:ssl-allow no; mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
 s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed --guess-mime-type
