@@ -1,4 +1,4 @@
-Title: Reasons Why I Dislike Windows 10
+Title: Problems With Windows 10
 Date: 2016-06-05
 Category: Windows 
 Tags: Windows, Tech, Operating Systems, Microsoft
@@ -21,4 +21,13 @@ A smaller issue, more about the UI of the search function, is with the 'up direc
 I won't complain too much about the bloatware that is now standard on a fresh Windows 10 install, but one of my largest pet peeves about 10 is with its photos application. If you open a picture from a folder that contains other pictures, you would expect the basic shortcuts to work. The most egregious offence in my opinion is that the back/forward buttons on a mouse do absolutely nothing. Microsoft has instead moved that functionality to the scroll wheel, which would normally be used for zooming in on a photo. 
 
 #### Pushing Windows Store
-Don't get me wrong, I appreciate the competition in the market to provide easy access to programs and media.
+Don't get me wrong, I appreciate the competition in the market to provide easy access to programs and media, but the way in which Microsoft has tried to implement their walled garden is painful in many ways.
+Oddly enough, the worst offender is sarch again, this time within their own store. A store filled with fake apps, clones of real apps, and apps for wich there is an established free and superior alternative makes trying to find anything useful a complete nightmare. 
+
+#### Lack of Customizability
+
+Unlike many people I actually used Windows 8.1 before 10. One feature that I dearly miss is customizing the start menu. Before you berate me for praising the much hated full screen start menu, let me clarify that yes, I did hate that touch screen inspired abomination, but at the very least you could change the program icons (albeit with a third party program). You could argue that icons are purely aesthetic, but I have to use a program called [DisplayFusion](www.displayfusion.com) to create functional task bars on my multi monitor setup.
+
+#### Data Security
+
+I won't pretend to be a data security specialist, or even have more knowledge than the general population. Instead of arguing about how Microsoft is or is not snooping on you, it is more important that the facts are just not clear. To the general population most of the information gathered is innocuous, but the precedent of enabling those settings by default is what I find more scary. With technology all around us privacy has become a hot topic. I hope that kids going through schools today are taught about things like encryption and obfuscation, though I certainly doubt it.
