@@ -13,4 +13,9 @@ To be honest, I would still qualify myself as a linux noobie. I have the basics 
 #### Window Management
 
 I have always been a proponent for keyboard focused tools. When I first started my developer journey I found Vim to be too cool to pass up. After gaining some proficiency with vim, and creating a basic .vimrc, I felt an itch to try something new. Emacs was the answer to that, so I set out customizing to my hearts content.
-Using Emacs on a triple monitor setup was as perfect as could be. I would have a monitor dedicated to a browser with documentation and research materials, 
+Using Emacs on a triple monitor setup was as perfect as could be. I would have a monitor dedicated to a browser with documentation and research materials, one for Emacs and the last was for music, irc, and other non essential programs.
+On my laptop however, I am much more limited in terms of screen real estate. Now instead of monitors, I use virtual desktops to separate my programs. While I sometimes miss having as much information immediately available to me, I do find that it is easier to focus on the task at hand when it is more difficult to procrastinate. That is why I chose i3wm as my window manager. If you do not know what i3 is, it is a dynamic tiling system that allows you to have full control and customization over your window and virtual desktop placement and layout. i3 also lets me control the windows solely with the keyboard.
+
+#### Ergodox Keyboard
+
+To give a little bit of background, I have had some troubles with my hands for quite some time. While playing saxophone, I had to have small steroid injections near the tendon sheaths to reduce swelling caused by stenosing tenosynovitis, otherwise known as 'trigger finger'.
