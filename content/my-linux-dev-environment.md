@@ -8,7 +8,7 @@ Status: Draft
 
 #### Linux
 
-To be honest, I would still qualify myself as a linux noobie. I have the basics down, but some of the more advanced features are still a mystery to me. 
+To be honest, I would still qualify myself as a linux noobie. I have the basics down, but some of the more advanced features are still a mystery to me. To me though the most important thing about using linux is the community. I like the fact that it is very customizable, but without the community to help me fix my problems and guide me, I doubt that my system would be working as smoothly as it is.
 
 #### Window Management
 
@@ -19,3 +19,6 @@ On my laptop however, I am much more limited in terms of screen real estate. Now
 #### Ergodox Keyboard
 
 To give a little bit of background, I have had some troubles with my hands for quite some time. While playing saxophone, I had to have small steroid injections near the tendon sheaths to reduce swelling caused by stenosing tenosynovitis, otherwise known as 'trigger finger'.
+When I started typing on a computer keyboard as much as I was playing music, I realized that I should be proactive about the potential physical ramifications. Towards that goal, I looked at my tools, first being my keyboard. When I decided on, and received my ErgoDox keyboard I also chose to take a look at alternative keyboard layouts. From a young age I had been touch typing fairly proficiently on a standard layout. But now with a new keyboard with blank keycaps (that means there is no lettering), it was the perfect opportunity to switch it up. After a fair bit of searching I decided on [link]Colemak, based on its logical design and somewhat easier transition.
+
+
