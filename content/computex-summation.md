@@ -3,7 +3,7 @@ Date: 2016-06-01
 Category: Tech News
 Tags: Windows, Tech, Virtual Reality, AMD, Keyboard
 Authors: Nathan Mador-House
-Status: Draft
+Status: Published
 Summary: Tech news from Computex 2016
 
 

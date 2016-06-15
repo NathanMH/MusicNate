@@ -4,7 +4,7 @@ Category: Personal
 Tags: Linux, Vim, Emacs, i3wm, 
 Authors: Nathan Mador-House
 Summary: A short disection of my linux setup.
-Status: Draft
+Status: Published
 
 #### Linux
 
