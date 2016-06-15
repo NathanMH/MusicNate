@@ -1,9 +1,9 @@
 Title: About
 
 Nathan's life story is one of many twists and turns, ranging from the mundane to the seemingly magical.
-With a successful musical career under his belt, including a classical music degree from McGill and 4 years playing with military bands accross Canada.
-Throughout his performance career, he has dabbled in many different aspects of music. Some of the highlights are Mouthpiece refacing for woodwinds, arranging for chamber groups and composition.
-Now however, he is seeking new challenges in a different area: Computers.
+With a successful musical career under his belt Nathan played with military bands across Canada and received a classical music degree from McGill.
+Throughout his performance career, he has dabbled in many different aspects of music. Some of the highlights are mouthpiece refacing for woodwinds, arranging for chamber groups, and composition.
+However, he is seeking new challenges in a different area: Computers.
 More specifically, having always been interested in computer games and hardware, Nathan built his own personal computer to begin a new path, one filled with late nights and coffee.
 Some current projects include:
 
