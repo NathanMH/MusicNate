@@ -4,7 +4,7 @@ Category: Tech News
 Tags: Google, Tech, Virtual Reality
 Authors: Nathan Mador-House
 Summary: Daydream is Google's platform for mobile Virtual Reality.
-Status: Draft
+Status: Published
 
 As of this writing, there are only a few major players in the virtual reality market. The market itself is split between mobile solutions like the Gear VR by Samsung and head mounted display such as the Vive by HTC/Valve, which have to be paired with a top-of-the-line gaming pc.
 Google also joined the fray two years ago with their massively successful Cardboard project.

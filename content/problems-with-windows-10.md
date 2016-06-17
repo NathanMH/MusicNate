@@ -4,7 +4,7 @@ Category: Windows
 Tags: Windows, Tech, Operating Systems, Microsoft
 Author: Nathan Mador-House
 Summary: A short list of a few of my major gripes with Windows 10
-Status: Draft
+Status: Published
 
 #### Windows Update
 This one is a big one for me. Windows users with a Pro license may not realize that if you are not a Pro user, you cannot indefinitely delay updates.
