@@ -7,7 +7,6 @@ However, he is seeking new challenges in a different area: Computers.
 More specifically, having always been interested in computer games and hardware, Nathan built his own personal computer to begin a new path, one filled with late nights and coffee.
 Some current projects include:
 
-- Webmaster for [ProntoMusica.org](http://www.prontomusica.org)
 - Creator of Musicians Toolbox a suite of handy simple tools for music students.
 - Currently working on a tool for real-time sentimental analysis.
 

@@ -29,7 +29,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
-THEME = ("pelican-themes-master/bricks")
+THEME = ("theme")
 THEME_COLOR = 'cyan'
 
 STATIC_PATHS = ['assets']
