@@ -1,24 +1,13 @@
-Title: Virtual Reality with the Oculus Rift DKII
-Generator: org-pelican
-Author: Nathan Mador-House
-Author_Gravatar: http://www.gravatar.com/avatar/a60cde9e914c1436fc997ab1c46149c2
-Date: 2016-03-17
-Lang: en
-Summary: Oculus Rift Dev kit for enhanced storytelling.
-Status: published
-Category: Virtual,Reality
-Tags: Virtual,Reality,Facebook
+#+TITLE: Virtual Reality with the Oculus Rift DKII
+#+AUTHOR: Nathan Mador-House
+#+DATE: 2016-03-17
+#+CATEGORY: Virtual Reality
+#+TAGS: Virtual Reality Facebook
+#+DESCRIPTION: Oculus Rift Dev kit for enhanced storytelling.
+#+LANG: en
+#+STATUS: published
 
-
-# Table of Contents
-
-1.  [Virtual Reality with the Oculus Rift DKII](#org6f9f27e)
-
-
-
-<a id="org6f9f27e"></a>
-
-# Virtual Reality with the Oculus Rift DKII
+* Virtual Reality with the Oculus Rift DKII
 
 How does one even begin to describe the new technologies involved with Virtual Reality? It isn't as simple as describing the video you see when you put the goggles on. Of course everyone's perception is going to be different, but the overall immersion is dependant on a few factors. I got to test out the Oculus Rift Developement Kit 2 in Montreal's "Phi Center" as part of an augmented storytelling exhibit. The exhibit has multiple technological demonstrations for new concepts such as e-books with smell(Smell-o-vision!), movement based light shows, real time animal tracking and mapping as well as an interesting video manipulation interface developed by Google. Each item had unique stories being told and enhanced with technology.
 
@@ -29,4 +18,3 @@ The particular demo that I was previewing was quite odd in content, but did an e
 Oculus Rift is but one of many head mounted displays which will be coming in the near future, though it was perhaps the first to gain the publics eye and interest. As virtual reality becomes more ubiquitous in the consumer market, I expect there to be huge strides in many tech fields, particularly displays and optics. Having just finished reading Neil Gaiman's "Snow Crash", a novel in which there is an entire world created in VR, similar to "Second Life" only in 3D, I can't help but be excited for the social implications this new tech will have. Sitting here with three large monitors seems awfully outdated and redundant with the Rift so close.
 
 According to Oculus, the Rift is slated to be released sometime in Q2 of 2016, although their competitor HTC/Valve have a similar product named "Vive" which is rumoured to be released before 2016. As much of a fan of this tech as I am, I believe it will behoove me to wait patiently while the bugs and kinks are worked out.
-

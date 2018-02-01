@@ -1,0 +1,20 @@
+#+TITLE: Tool of the Month #3 - Org Mode
+#+AUTHOR: Nathan Mador-House
+#+DATE: 2018-01-26
+#+CATEGORY: Tool of the month
+#+TAGS: Windows Productivity
+#+DESCRIPTION: The one stop shop for organization. Prerequisites: Masters in Emacs and Keybindings
+#+LANG: en
+#+STATUS: published
+
+[[https://orgmode.org/][OrgMode]]
+
+* Org-Mode
+
+I imagine that the majority of people who have put in the time to learn Emacs properly already make use of Org-Mode, but if you are just venturing into the world of classic editors then it might be the deciding factor.
+
+When I was using vim I longed for a unified method of tagging items, managing my todo list and organizing my personal wiki.
+
+The wiki was what pushed me to migrate back to Emacs, and with the continued development of Evil (Vim keybindings in Emacs), it seemed like the best of both worlds.
+
+There are so many organization and mind mapping tools that it can be overwhelming. [[https://www.zim-wiki.org][Zim-Wiki]]
