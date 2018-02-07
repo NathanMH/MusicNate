@@ -6,6 +6,7 @@
 #+DESCRIPTION: A short list of a few of my major gripes with Windows 10
 #+LANG: en
 #+STATUS: published
+#+STARTUP: overview
 
 * Windows Update
   

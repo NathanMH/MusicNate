@@ -6,7 +6,7 @@
 #+DESCRIPTION: Tech news from Computex 2016
 #+LANG: en
 #+STATUS: published
-
+#+STARTUP: overview
 
 * Windows Anniversary Update
 

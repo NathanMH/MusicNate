@@ -6,6 +6,7 @@
 #+DESCRIPTION: Oculus Rift Dev kit for enhanced storytelling.
 #+LANG: en
 #+STATUS: published
+#+STARTUP: showall
 
 * Virtual Reality with the Oculus Rift DKII
 

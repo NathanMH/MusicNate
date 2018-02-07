@@ -2,10 +2,11 @@
 #+AUTHOR: Nathan Mador-House
 #+DATE: 2018-01-26
 #+CATEGORY: Tool of the month
-#+TAGS: Windows Productivity
+#+TAGS: Emacs, Org-mode, Linux, Windows, Open Source, Productivity, Organization
 #+DESCRIPTION: The one stop shop for organization. Prerequisites: Masters in Emacs and Keybindings
 #+LANG: en
 #+STATUS: published
+#+STARTUP: showall
 
 [[https://orgmode.org/][OrgMode]]
 

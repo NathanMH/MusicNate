@@ -2,8 +2,8 @@
 #+AUTHOR: Nathan Mador-House
 #+DATE: 2016-06-18
 #+CATEGORY: Apple
-#+TAGS: Mac OSX iOS iphone iwatch ipad
-#+DESCRIPTION: A summary of Apple's 2016 developer conference.
+#+TAGS: Apple, Mac, MacOS, Tech, Operating Systems, iPhone, iPad, iWatch, iOS
+#+DESCRIPTION: A summary of Apple's 2016 developer conference
 #+LANG: en
 #+STATUS: published
 

@@ -6,6 +6,7 @@
 #+DESCRIPTION: Does it make sense to get a Chromebook primarily for use as a Linux ultrabook?
 #+LANG: en
 #+STATUS: published
+#+STARTUP: overview
 
 * Which Linux Distro?
 

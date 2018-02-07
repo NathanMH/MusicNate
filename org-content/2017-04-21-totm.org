@@ -2,10 +2,11 @@
 #+AUTHOR: Nathan Mador-House
 #+DATE: 2017-04-21
 #+CATEGORY: Tool of the month
-#+TAGS: Windows Productivity
+#+TAGS: Windows, Productivity, Virtual Desktops, Free Software
 #+DESCRIPTION: A virtual window manager (and much more) for Windows!
 #+LANG: en
 #+STATUS: published
+#+STARTUP: showall
 
 [[https://www.dexpot.de][Link]]
 

@@ -5,7 +5,8 @@
 #+TAGS: Linux Vim Emacs i3wm 
 #+DESCRIPTION: A short disection of my linux setup.
 #+LANG: en
-#+STATUS: Published
+#+STATUS: published
+#+STARTUP: overview
 
 * Linux
 

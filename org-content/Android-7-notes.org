@@ -1,8 +1,12 @@
-Title: Android N from Google IO
-Date: 2016-05-23
-Category: Tech News
-Tags: Android, Google, Mobile 
-Authors: Nathan Mador-House
+#+TITLE: Android N from Google IO
+#+AUTHOR: Nathan Mador-House
+#+DATE: 2016-05-23
+#+CATEGORY: Tech News
+#+TAGS: Android Google, Mobile 
+#+DESCRIPTION: Notes taken during the release of Android 7
+#+LANG: en
+#+STATUS: draft
+#+STARTUP: showall
 
 Chet Haase
 Romain Guy

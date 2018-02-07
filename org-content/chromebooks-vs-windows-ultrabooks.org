@@ -6,6 +6,7 @@
 #+DESCRIPTION: A quick overview on how Chromebooks fit into the laptop market, particularly in regards to the higher end models.
 #+LANG: en
 #+STATUS: published
+#+STARTUP: showall
 
 * Operating System
 

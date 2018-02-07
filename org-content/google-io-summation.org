@@ -6,6 +6,7 @@
 #+DESCRIPTION: Google IO included talk of Android N, Google Assistant, two new services Allo and Duo and much more.
 #+LANG: en
 #+STATUS: published
+#+STARTUP: overview
 
 * Google I/O
 
@@ -15,7 +16,6 @@
   Some companies host events like this for the press, others have booths at consumer events, but Google's audience at IO consists of press, consumers, and a large selection of developers.
   Having development experience is not mandatory to attend any of the lectures, but it certainly helps when discussing the intricate details of new APIs or programs.
   Even though my main programming language is Python, I know enough Java to follow along with the developer talks. These talks are a boon of tips and tricks to using some to the new APIs.
-
 
 * Google Home Assistant
   Presenting the Google Assistant was Mario Querioz. Even though Google Assistant is a software implementation, the main implementation is with a device named Google Home.
