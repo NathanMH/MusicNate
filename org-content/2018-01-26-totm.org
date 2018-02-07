@@ -11,10 +11,11 @@
 
 * Org-Mode
 
-I imagine that the majority of people who have put in the time to learn Emacs properly already make use of Org-Mode, but if you are just venturing into the world of classic editors then it might be the deciding factor.
+  I imagine that the majority of people who have put in the time to learn Emacs properly already make use of Org-Mode, but if you are just venturing into the world of classic editors then it might be the deciding factor.
 
-When I was using vim I longed for a unified method of tagging items, managing my todo list and organizing my personal wiki.
+  When I was using vim I longed for a unified method of tagging items, managing my todo list and organizing my personal wiki.
 
-The wiki was what pushed me to migrate back to Emacs, and with the continued development of Evil (Vim keybindings in Emacs), it seemed like the best of both worlds.
+  The wiki was what pushed me to migrate back to Emacs, and with the continued development of Evil (Vim keybindings in Emacs), it seemed like the best of both worlds.
 
-There are so many organization and mind mapping tools that it can be overwhelming. [[https://www.zim-wiki.org][Zim-Wiki]]
+  There are so many organization and mind mapping tools that it can be overwhelming.
+  [[https://www.zim-wiki.org][Zim-Wiki]] is an example 
