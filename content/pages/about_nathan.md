@@ -1,4 +1,13 @@
 Title: About
+Generator: org-pelican
+Author: Nathan Mador-House
+Author_Gravatar: http://www.gravatar.com/avatar/30ab82b51f4e3f7d703fd9f845a05b50
+Lang: en
+Summary: Does it make sense to get a Chromebook primarily for use as a Linux ultrabook?
+Status: published
+Category: Consumer
+Tags: Linux i3wm Laptops Chromebook
+
 
 Nathan's life story is one of many twists and turns, ranging from the mundane to the seemingly magical.
 With a successful musical career under his belt Nathan played with military bands across Canada and received a classical music degree from McGill.
@@ -15,7 +24,6 @@ Some of Nathan's skills include:
 - Languagues: Java, C, C++, Python, Ruby
 - Web Dev: HTML, CSS, Javascript, SQL
 - Development Environment: Emacs, Vim, Eclipse, Visual Studio
-- Operating Systems: Windows, Mac(OSX), Linux, Android, iOS, ChromeOS   
----
+- Operating Systems: Windows, Mac(OSX), Linux, Android, iOS, ChromeOS
 
 See my work [here](http://www.github.com/NathanMH), or you can contact me directly at [nathan@musicnate.ca](mailto:nathan@musicnate.ca)  

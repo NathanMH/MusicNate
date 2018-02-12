@@ -1,0 +1,48 @@
+#+TITLE: Resources
+#+AUTHOR: Nathan Mador-House
+#+DESCRIPTION: My personal big list of links and resources
+#+LANG: en
+#+STATUS: published
+#+STARTUP: showall
+
+Here is a running list of links which I have found useful at one point in my development career:
+
+* Python:
+
+[[https://docs.python.org/3/][Python 3]]: Docs for Python 3.
+
+[[https://sandipanweb.wordpress.com/][Sandipanweb]]: Data Science articles.
+
+[[https://python.libhunt.com/][Awesome Python - libhunt Python]]: frameworks, libraries, and resources.
+
+[[https://tweepy.readthedocs.io][Tweepy API]]: Documentation for using Twitter with python.
+
+[[https://pythondata.com][PythonData]]: Some interesting uses and articles on data analysis in pyphon.
+
+[[https://www.fullstackpython.com/best-python-resources.html][Full Stack Python]]: List of other useful resources.
+
+[[https://wiki.python.org/moin/BeginnersGuide/Programmers][Python Wiki]]: Big list of beginner friendly resources.
+
+
+* Beginner Programming:
+
+[[https://www.khanacademy.org/][Khan Academy]]: Beginner to advanced math tutorials. Has some content for economics and other STEM subjects.
+
+[[https://www.freecodecamp.org/][FreeCodeCamp]]: Great beginner programming site with a sense of progression.
+
+[[https://www.codecademy.com/][CodeCademy]]: Simple learning site with an emphasis on web development.
+
+
+
+* Data Science
+
+
+* General:
+
+[[https://www.mybridge.co/][My Bridge]]: Resource for many differnt areas; Programming Languages, Data Science, Machine learning, Entrepreneurship, Design, Marketing.
+
+[[https://api.mongodb.com/][MongoDB]]: Docs for using MongoDB with many languages.
+
+[[https://danieltakeshi.github.io][Seita's Place]]: A great personal blog filled with interesting articles and perspective from a deaf computer scientist.
+
+[[https://www.jimmyr.com/][JimmyR]]: A glorified RSS feed, with an emphasis on programming and tech news.

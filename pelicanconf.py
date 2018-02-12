@@ -22,12 +22,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pronto Musica', 'http://www.prontomusica.org/'),
-         ('Lara Deutsch', 'http://www.laradeutsch.ca/'),)
+LINKS = (('Pronto Musica', 'https://www.prontomusica.org/'),
+         ('Lara Deutsch', 'https://www.laradeutsch.ca/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/NathanMH'),
+          ('github', 'https://github.com/NathanMH'))
 
 DEFAULT_PAGINATION = False
 

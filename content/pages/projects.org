@@ -1,0 +1,56 @@
+#+TITLE: Projects
+#+AUTHOR: Nathan Mador-House
+#+DESCRIPTION: My personal projects
+#+LANG: en
+#+STATUS: published
+#+STARTUP: showall
+
+* crypto-twit.py
+  - Using positivity_check to do comparative analysis on cryptocurrency prices and social media text.
+  - Made with:
+	- Python
+	- MongoDB
+	- positivity_check.py
+
+* [[https://github.com/NathanMH/positivity_check][positivity_check.py]]
+  - Making the world more positive one internet sentence at a time.
+  - Uses a naive approach to sentiment analysis, purposefully without context recognition.
+  - Gives text a simple numerical score and highlights negative words.
+  - Customizable with many different sentiment dictionaries, primarily utilizes AFINN-165
+  - Connects with Twitter API and Reddit API for analyzing users and subjects.
+  - Made with:
+	- Python
+
+* [[https://github.com/NathanMH/open_gov_graphs][open_gov_graphs.py]]
+  - Pushing for a more approachable means of interpreting the data available at open.canada.ca.
+  - The goal is to be able to create simple graphs quickly and easily.
+  - Works with CSV and JSON
+  - With ~80,000 datasets, universal compatibility is impossible
+  - Work in progress.
+  - Made with:
+	- Python (BeautifulSoup, Pandas, others)
+
+* [[https://github.com/NathanMH/needle_drop][needle_drop.py]]
+  - A tool to help musicians study for listening exams.
+  - Plays a random mp3 from at a random start time to simulate exam situations.
+  - Simple gui including drag and drop functionality.
+  - Compatible with Linux.
+  - Made with:
+	- Python
+	- easygui
+  
+* [[https://github.com/NathanMH/HomeDashboard][HomeDashboard]]
+  - A very light dashboard for home usage.
+  - Simple and clean design using Twitter Bootstrap and some custom CSS styling.
+  - Provides inspiring quotes, daily weather and local links on your network.
+  - Made with:
+	- HTML
+	- CSS (Twitter Bootstrap)
+	- JavaScript (jQuery)
+
+* [[https://github.com/NathanMH/ProntoMusica][ProntoMusica]]
+  - The old webdesign for the Pronto Musica orchestra.
+  - Custom responsive bilingual design.
+  - Made with:
+	- HTML
+	- CSS
