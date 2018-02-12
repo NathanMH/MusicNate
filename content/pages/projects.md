@@ -9,27 +9,40 @@ Status: published
 
 # Table of Contents
 
-1.  [crypto-twit.py](#org7bfd7e2)
-2.  [positivity_check.py](#org31d09f3)
-3.  [open_gov_graphs.py](#org12854b6)
-4.  [needle_drop.py](#org21ae026)
-5.  [HomeDashboard](#org0b4496c)
-6.  [ProntoMusica](#org78a6c4e)
+1.  [MusicNate](#org85c2834)
+2.  [crypto-twit.py](#org4500b68)
+3.  [positivity_check.py](#org18c462d)
+4.  [open_gov_graphs.py](#org4a361ca)
+5.  [needle_drop.py](#org75e0717)
+6.  [HomeDashboard](#orgae6cdad)
+7.  [ProntoMusica](#org2a93580)
 
 
 
-<a id="org7bfd7e2"></a>
+<a id="org85c2834"></a>
+
+# [MusicNate](https://github.com/NathanMH/MusicNate)
+
+-   This website.
+-   Made with:
+    -   Python
+    -   Pelican
+    -   Org-Mode (Emacs)
+    -   Markdown
+
+
+<a id="org4500b68"></a>
 
 # crypto-twit.py
 
--   Using positivitycheck to do comparative analysis on cryptocurrency prices and social media text.
+-   Using positivity_check to do comparative analysis on cryptocurrency prices and social media text.
 -   Made with:
     -   Python
     -   MongoDB
-    -   positivitycheck.py
+    -   positivity_check.py
 
 
-<a id="org31d09f3"></a>
+<a id="org18c462d"></a>
 
 # [positivity_check.py](https://github.com/NathanMH/positivity_check)
 
@@ -42,7 +55,7 @@ Status: published
     -   Python
 
 
-<a id="org12854b6"></a>
+<a id="org4a361ca"></a>
 
 # [open_gov_graphs.py](https://github.com/NathanMH/open_gov_graphs)
 
@@ -55,7 +68,7 @@ Status: published
     -   Python (BeautifulSoup, Pandas, others)
 
 
-<a id="org21ae026"></a>
+<a id="org75e0717"></a>
 
 # [needle_drop.py](https://github.com/NathanMH/needle_drop)
 
@@ -68,7 +81,7 @@ Status: published
     -   easygui
 
 
-<a id="org0b4496c"></a>
+<a id="orgae6cdad"></a>
 
 # [HomeDashboard](https://github.com/NathanMH/HomeDashboard)
 
@@ -81,7 +94,7 @@ Status: published
     -   JavaScript (jQuery)
 
 
-<a id="org78a6c4e"></a>
+<a id="org2a93580"></a>
 
 # [ProntoMusica](https://github.com/NathanMH/ProntoMusica)
 

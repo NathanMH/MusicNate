@@ -5,6 +5,14 @@
 #+STATUS: published
 #+STARTUP: showall
 
+* [[https://github.com/NathanMH/MusicNate][MusicNate]]
+  - This website.
+  - Made with:
+	- Python
+	- Pelican
+	- Org-Mode (Emacs)
+	- Markdown
+
 * crypto-twit.py
   - Using positivity_check to do comparative analysis on cryptocurrency prices and social media text.
   - Made with:
