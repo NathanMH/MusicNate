@@ -1,0 +1,23 @@
+#+TITLE: Tool of the Month #1 - Zim-Wiki
+#+AUTHOR: Nathan Mador-House
+#+DATE: 2018-02-23
+#+CATEGORY: Tool of the month
+#+TAGS: Windows, Linux, MacOS, Productivity, Organization, KVM
+#+DESCRIPTION: A virtual KVM that works with Linux, Windows and MacOS
+#+LANG: en
+#+STATUS: published
+#+STARTUP: showall
+
+[[https://www.symless.com/synergy][Link]]
+
+* Synergy 
+  
+	If you only use a laptop then this tool won't do much for you. Synergy is a tool for using input devices with multiple computers simultaneously. If you know hardware, Synergy is basically a KVM (keyboard, video, mouse) switch. Basically you can use a single mouse and keyboard to control any amount of connected computers.  
+
+	While there is a perfectly good (and free!) [[https://www.microsoft.com/en-ca/download/details.aspx?id=35460][alternative (Mouse without Borders)]] if you are are exclusively using Windows, if you mix and match oses, Synergy is the way to go.
+I have personally used Synergy 2 on Linux, Windows, and MacOS simultaneously without a hitch. Back before version 2, pairing was somewhat difficult with a server / client system and an outdated GUI. Version 2 GUI is now only for configuring monitor / computer relative locations.
+
+Synergy also allows for cross platform copy-paste (both text and files), although file transfer speeds will depend on the quality of your local wifi network.
+
+  ![[~/Documents/MusicNate/content/assets/][Synergy]]
+  ![[~/Documents/MusicNate/content/assets/[Synergy]]
