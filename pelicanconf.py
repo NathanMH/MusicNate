@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Nathan Mador-House'
 SITENAME = u'MusicNate'
-SITEURL = 'https://nathanmh.github.io'
+SITEURL = 'https://www.musicnate.ca'
 
 PATH = '/home/musicnate/Documents/MusicNate/content/'
 #PATH = 'C:\\Users\\natha\\Documents\\NathanMH.github.io\\content\\'
