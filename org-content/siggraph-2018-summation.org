@@ -1,0 +1,38 @@
+#+TITLE: SIGGRAPH 
+#+AUTHOR: Nathan Mador-House
+#+DATE: 2018-08-25
+#+CATEGORY: Tech News
+#+TAGS: SIGGRAPH VR Graphics Tech
+#+DESCRIPTION: SIGGRAPH conference with graphics, design, digital art, Virtual Reality and more.
+#+LANG: en
+#+STATUS: published
+#+STARTUP: overview
+
+* VR
+    The emphasis for this trade show was Virtual Reality this year, with numerous vendors showing off their tech.
+    Unfortunately the waitlists/lines for participating in the demos were either too long or full by the time I
+    arrived. I know for next time that the demos are in high demand!
+    There were new (to me) entrants to the VR arena including StarVR, as well as old staples such as
+
+* 3D Printing and Scanning
+    While 3D printing is not yet mainstream in the consumer market, there were multiple tiers of printer being shown.
+    The original Makerbot was in full swing, showing off their new multi-filament nozzle. Where I was most interested was
+    with Lulzbot, who was demonstrating cheaper and open source printers with an ultra-fine nozzle. What I learned about
+    Lulzbot that was particularly incredible is that they use dozens of 3d-printed parts to build their printers themselves.
+    While not every part is replicable by a 3D printer, the fact that they trust the accuracy and durability of their own 
+    tools to bootstrap their production capabilities is a testament to the quality.
+    
+
+* Graphics, Input, and Other Tech
+    The graphics sector of this convention was dominated by the recent NVidia announcements surrounding their new lineup of
+    consumer and professional graphics cards.
+
+    The Wacom booth was another surprise to me, showing off more tablet and screen devices than pure stylus pads. The 
+    different sizes were expected, but the prices were relatively steep. An interesting function is the ability to 
+    hover the stylus over the screen to move the mouse. They do have drivers for Windows, macOS, and Linux, I would be
+    curious to see how it would perform with multiple OSs simultaneously, such as with Synergy.
+
+* Conclusion
+    Though my experience of SIGGRAPH was quite limited, I still managed to learn plenty, and have new inspiration for the
+    future of VR and tech in general. I am looking forward to my next opportunity to participate, and hopefully will be 
+    available for more than just the last day and exhibits.
