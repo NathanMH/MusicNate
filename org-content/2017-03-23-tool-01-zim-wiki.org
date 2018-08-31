@@ -1,7 +1,7 @@
-#+TITLE: Tool of the Month #1 - Zim-Wiki
+#+TITLE: Tooltip #1 - Zim-Wiki
 #+AUTHOR: Nathan Mador-House
 #+DATE: 2017-03-23
-#+CATEGORY: Tool of the month
+#+CATEGORY: Tooltip
 #+TAGS: Windows, Linux, Productivity, Organization, Free Software
 #+DESCRIPTION: Zim-Wiki is a personal desktop wiki for all your notes.
 #+LANG: en

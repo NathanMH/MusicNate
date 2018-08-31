@@ -1,7 +1,7 @@
-#+TITLE: Tool of the Month #3 - Org Mode
+#+TITLE: Tooltip #3 - Org Mode
 #+AUTHOR: Nathan Mador-House
 #+DATE: 2018-01-26
-#+CATEGORY: Tool of the month
+#+CATEGORY: Tooltip
 #+TAGS: Emacs, Org-mode, Linux, Windows, Open Source, Productivity, Organization
 #+DESCRIPTION: The one stop shop for organization. Prerequisites: Masters in Emacs and Keybindings
 #+LANG: en

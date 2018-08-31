@@ -1,7 +1,7 @@
-#+TITLE: Tool of the Month #1 - Zim-Wiki
+#+TITLE: Tooltip #4 - Synergy
 #+AUTHOR: Nathan Mador-House
 #+DATE: 2018-02-23
-#+CATEGORY: Tool of the month
+#+CATEGORY: Tooltip
 #+TAGS: Windows, Linux, MacOS, Productivity, Organization, KVM
 #+DESCRIPTION: A virtual KVM that works with Linux, Windows and MacOS
 #+LANG: en

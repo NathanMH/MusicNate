@@ -5,28 +5,12 @@
 #+TAGS: Keyboards, Open Source, Mechanical
 #+DESCRIPTION: A long term review of the ErgoDox split keyboard.
 #+LANG: en
-#+STATUS: draft
+#+STATUS: published
 #+STARTUP: overview
-
-* Images:
-  
-image1 = ![[~/Documents/MusicNate/content/assets/ergodox-key64.jpg][Key64]]
-image2 = ![[~/Documents/MusicNate/content/assets/ergodox-vea.jpg][VE:A]]
-image3 = ![[~/Documents/MusicNate/content/assets/ergodox-mistel.jpg][Mistel Barocco]]
-image4 = ![[~/Documents/MusicNate/content/assets/ergodox-kinesis-freestyle2.jpg][kinesis freestyle2]]
-image5 = ![[~/Documents/MusicNate/content/assets/ergodox-kinesis-advantage.jpg][kinesis advantage]]
-image6 = ![[~/Documents/MusicNate/content/assets/ergodox-dactyl.jpg][dactyl]]
-image7 = ![[~/Documents/MusicNate/content/assets/ergodox-maltron.jpg][maltron]]
-  
-* Links:
-
-link1 = [[https://www.ergodox.io][Ergodox Keyboard]]
-link2 = [[https://www.microsoft.com/accessories/en-ca/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00013][Microsoft Ergo Keyboard 4000]]
-
 
 * Overview
 
-The ErgoDox is a custom made, open-source, mechanical keyboard, with a steep price tag. There are some variants of the original design specs available, such as the ErgoDox-EZ and ErgoDox Infinity. This review is for the original design distributed by MassDrop in 2014.
+The [[https://www.ergodox.io][ErgoDox Keyboard]] is a custom made, open-source, mechanical keyboard, with a steep price tag. There are some variants of the original design specs available, such as the ErgoDox-EZ and ErgoDox Infinity. This review is for the original design distributed by MassDrop in 2014.
 
 Pros:
 Ergonomic design
@@ -47,6 +31,9 @@ Expensive
 	The ErgoDox has a few very compelling features, some of which are common in other keyboards nowadays, others of which are a niche within a niche. As a custom keyboard, one of the most important features is its programmability. With community support, virtually every language and layout is available, including popular alternatives such as Colemak and Dvorak. Additionally, if you cannot find a layout that suits you, it is extremely easy to create one using one of the various online tools [link]. 
 	
 	What makes the ErgoDox so powerful is that each and every key can be programmed separately, allowing for incredibly tailored layouts. In addition to the regular capabilities of a keyboard, the custom software QMK allows for extended functionality including leader key (similar to Vim), mouse keys, stenography, and one of my ergonomic favourites: [link] 'Space Cadet Shift'. With all of these options, there is always the potential for new ergonomic adjustments should problems arise.
+	
+  There are a lot of aesthetic and personal customizations for the ErgoDox, though only a few will make a large impact on the actual ergonomics. Going based on the currently popular ErgoDox-EZ, you can customize the tenting legs, the keycaps (though not the profile), the lighting as well as the switches. Of these, only the tenting will significantly affect performance.
+  The ErgoDox has a few very compelling features, some of which are common in other keyboards nowadays, others of which are a niche within a niche. As a custom keyboard one of the most important features is its programability. With community support virtually every language and layout is available, including popular alternatives such as Colemak and Dvorak. Additionally if you cannot find a layout that suits you, it is extremely easy to create one using one of the various online tools [link]. What makes the ErgoDox so powerfull, is that each and every key can be programmed separately, allowing for incredibly tailored layouts. In addition to the regular capabilities of a keyboard, the custom software QMK allows for extended functionality including leader key (similar to Vim), mouse keys, stenography, and one of my ergonomic favourites [link] 'Space Cadet Shift'. With all of these options it may lead to a never ending cycle of ergonomic adjustments.
 
 ** Connectivity
 
@@ -55,7 +42,10 @@ Expensive
 * Description / Design
 ** Split design
 
-	The ErgoDox keyboard is based off of another custom keyboard called the Key64 [image1], though it bears more resemblance to the Kinesis Advantage 2. It is a split design, meaning that each hand operates half of the keyboard independently. This allows for far greater control in terms of ergonomics for shoulder width and wrist angle. With the addition of tenting, each half can be tilted to improve wrist position and height. Aside from the tenting provided with the ErgoDox-EZ, a simple stand can be 3D-printed, although it can't be adjusted afterwards.
+	The ErgoDox keyboard is based off of another custom keyboard called the Key64, though it bears more resemblance to the Kinesis Advantage 2. It is a split design, meaning that each hand operates half of the keyboard independently. This allows for far greater control in terms of ergonomics for shoulder width and wrist angle. With the addition of tenting, each half can be tilted to improve wrist position and height. Aside from the tenting provided with the ErgoDox-EZ, a simple stand can be 3D-printed, although it can't be adjusted afterwards.
+
+![[~/Documents/MusicNate/content/assets/ergodox-key64.jpg][Key64]]
+![[~/Documents/MusicNate/content/assets/ergodox-kinesis-advantage.jpg][kinesis advantage]]
 
 
 ** Ortholinear
@@ -65,12 +55,12 @@ Expensive
 * Alternatives
 ** Staggered Alternatives:
 
-	If you're looking for something more traditional, there are a few split keyboards with staggered layout such as the Kinesis Freestyle 2, which has a bluetooth variant, or the Mistel Barocco as a cheaper alternative.
-	There is always the Microsoft Natural Ergonomic Keyboard [link2], although keep in mind that it is a rubber dome keyboard and not mechanical.
+	If you're looking for something more traditional, there are a few split keyboards with staggered layout such as the Kinesis Freestyle 2 ![[~/Documents/MusicNate/content/assets/ergodox-kinesis-freestyle2.jpg][kinesis freestyle2]], which has a bluetooth variant, or the Mistel Barocco ![[~/Documents/MusicNate/content/assets/ergodox-mistel.jpg][Mistel Barocco]] as a cheaper alternative.
+	There is always the [[https://www.microsoft.com/accessories/en-ca/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00013][Microsoft Ergo Keyboard 4000]], although keep in mind that it is a rubber dome keyboard and not mechanical.
 
 ** Custom Alternatives:
   
-	If the ergodox is not quite right for you, there are a plethora of other similar ortholinear and ergonomic keyboards. Some are more complex such as the Dactyl [image6], which is based on the commercial Maltron [image7]
+	If the ergodox is not quite right for you, there are a plethora of other similar ortholinear and ergonomic keyboards. Some are more complex such as the Dactyl ![[~/Documents/MusicNate/content/assets/ergodox-dactyl.jpg][dactyl]], which is based on the commercial Maltron. ![[~/Documents/MusicNate/content/assets/ergodox-maltron.jpg][maltron]]
 
 	More recently, some members in the mechanical keyboard community have managed to push the boundaries of custom boards. With new switches and connectors becoming popular, the customizations are nearly limitless.
 

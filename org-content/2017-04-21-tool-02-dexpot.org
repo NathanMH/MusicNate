@@ -1,7 +1,7 @@
-#+TITLE: Tool of the Month #2 - Dexpot
+#+TITLE: Tooltip #2 - Dexpot
 #+AUTHOR: Nathan Mador-House
 #+DATE: 2017-04-21
-#+CATEGORY: Tool of the month
+#+CATEGORY: Tooltip
 #+TAGS: Windows, Productivity, Virtual Desktops, Free Software
 #+DESCRIPTION: A virtual window manager (and much more) for Windows!
 #+LANG: en

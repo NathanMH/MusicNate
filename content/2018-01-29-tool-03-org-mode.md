@@ -1,4 +1,4 @@
-Title: Tool of the Month #3 - Org Mode
+Title: Tooltip #3 - Org Mode
 Generator: org-pelican
 Author: Nathan Mador-House
 Author_Gravatar: http://www.gravatar.com/avatar/30ab82b51f4e3f7d703fd9f845a05b50
@@ -6,7 +6,7 @@ Date: 2018-01-26
 Lang: en
 Summary: The one stop shop for organization. Prerequisites: Masters in Emacs and Keybindings
 Status: published
-Category: Tool of the month
+Category: Tooltip
 Tags: Linux, Windows, Open Source, Productivity
 
 
